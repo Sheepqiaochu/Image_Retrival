@@ -15,3 +15,6 @@ for svm:
 ```Bash  
 python svm.py --c 0.5 --k 'rbf'
 ``` 
+
+## Dataset download link
+[stanford_dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/)
