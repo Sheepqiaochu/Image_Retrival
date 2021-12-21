@@ -1,0 +1,8 @@
+scikit-learn==1.0.1
+scipy==1.7.3
+snooty-lextudio==1.11.5
+torch==1.8.0+cu111
+torch-tb-profiler==0.3.1
+torchaudio==0.8.0
+torchvision==0.9.0+cu111
+python==3.9
